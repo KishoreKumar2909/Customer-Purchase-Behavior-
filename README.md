@@ -1,4 +1,4 @@
-Customer Purchase Behavior	
+**Customer Purchase Behavior	**
 
 Key skills: Data modeling, data visualization, exploratory data analysis (EDA)		
 
